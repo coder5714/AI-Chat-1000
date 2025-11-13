@@ -1,0 +1,5 @@
+{
+  "name": "AI-Chat-1000",
+  "description": "An elegant chat interface to interact with a variety of simulated open-source AI models, powered by the Gemini API. Select a model and start your conversation.",
+  "requestFramePermissions": []
+}
